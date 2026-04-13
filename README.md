@@ -95,6 +95,6 @@ Then rescan plugins in your DAW.
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0 or later.
+This project is licensed under the GNU Affero General Public License v3.0.
 
-That license choice is intended to stay compatible with JUCE usage under the JUCE open source licensing model. See `LICENSE`.
+That license choice is intended to match JUCE's current open-source usage model. See `LICENSE`.
